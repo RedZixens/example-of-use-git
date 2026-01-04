@@ -1,12 +1,5 @@
 <?php
-const NOMBRE = 'Miguel';
-$name = 'Miguel';
-$isDev = true;
-$age = 5;
-
-$isOld = $age > 40;
-
-define('LOGO_URL', 'https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-svg-vector.svg');
+efine('LOGO_URL', 'https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-svg-vector.svg');
 
 $output = "Hola $name, con una edad de: $age 😔";
 
